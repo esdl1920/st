@@ -8,5 +8,4 @@ int add()
 int main()
 {
 cout<<"HHHHEEEEELLLLOOOO";
-cout<<"This is esdl lab";
 }
